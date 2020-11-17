@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoneyConverter</string>
+    <string name="montrer_à_entrer"></string>
+    <string name="Résultat">0</string>
+    <string name="send_value">Send</string>
+    <string name="dinar_euro">convert1</string>
+    <string name="euro_dinar">convert2</string>
+</resources>
